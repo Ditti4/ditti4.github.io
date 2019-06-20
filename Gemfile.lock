@@ -251,8 +251,7 @@ PLATFORMS
 DEPENDENCIES
   github-pages
   jekyll-compose
-  jekyll-feed (~> 0.6)
-  jekyll-theme-hydeout (~> 3.4)
+  jekyll-theme-hydeout
   tzinfo-data
 
 BUNDLED WITH
