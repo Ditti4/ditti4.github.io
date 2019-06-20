@@ -22,8 +22,9 @@ plugins:
   - jekyll-feed
 
 social:
-  - github: ditti4
-  - twitter: ditti44
+  github: ditti4
+  twitter: ditti44
+
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
 # to override the default setting.
