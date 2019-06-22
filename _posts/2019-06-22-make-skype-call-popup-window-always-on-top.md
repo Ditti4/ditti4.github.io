@@ -2,6 +2,8 @@
 layout: post
 title: Make Skype Call Popup Window Always-on-top
 date: 2019-06-22 11:00 +0200
+categories: Linux
+tags: [Skype, Ubuntu, Linux, Budgie, devilspie2, Lua]
 ---
 
 Many months ago, Microsoft forced everybody to use the new Skype version 8, stating that it had all the features of the old Skype and more. This happened to not be the case, at least in my experience.

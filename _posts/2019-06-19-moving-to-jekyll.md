@@ -2,7 +2,8 @@
 layout: post
 title:  "Moving to Jekyll"
 date:   2019-06-19 19:50:00 +0200
-categories: jekyll
+categories: Jekyll
+tags: [Jekyll, WordPress, Hydeout]
 ---
 
 Today marks the day I plan to move forward, and move on from WordPress. The last few years I've been a loyal WordPress user, mostly for the lack of a better and easy alternative. Recently, however, I've been looking into static site generators and I discovered [Jekyll][jekyll].
