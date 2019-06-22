@@ -13,7 +13,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   It's not much, but it's home.
 baseurl: ""
 url: "https://ditti4.de"
-permalink: pretty
+permalink: /:year/:month/:day/:title/
 paginate: 5
 
 # Build settings
